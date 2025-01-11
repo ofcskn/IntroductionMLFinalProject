@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```bash
 python project.py
 ```
+4. Get the results that are in "results" folder.
 
 ## Steps
 1. Select a dataset from the UCI Machine Learning Repository or Kaggle.
@@ -36,6 +37,7 @@ project/
 │
 ├── src/                        # For Python scripts
 │   └── data_preprocessing.py   # For data preprocessing tasks
+│   └── model_training.py       # For model training tasks
 │
 ├── results/                    # For saving outputs like accuracy reports, graphs, etc.
 │
@@ -46,3 +48,6 @@ project/
 
 ### Dataset
 > Moro, S., Rita, P., & Cortez, P. (2014). Bank Marketing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
+
+### Contact
+> Ömer Faruk COŞKUN - info@ofcskn for mailing and @ofcskn for social media.
